@@ -8,9 +8,9 @@ crop management was entirely determined by the final yield and the prevailing ma
 automated monitoring of crops and offers predictive capabilities for yield estimation. Machine learning (ML) is instrumental in 
 serving as a decision support tool for Crop Yield Prediction (CYP). It aids in making informed decisions regarding crop selection
 and providing guidance throughout the crop's growth cycle. Farmers often engage in the repeated cultivation of the same crops without
-exploring new crop varieties, and they apply fertilisers without proper knowledge of nutrient deficiencies and appropriate quantities. 
+exploring new crop varieties, and they apply fertilizers without proper knowledge of nutrient deficiencies and appropriate quantities. 
 This research work aims to assist novice farmers by utilising advanced technologies such as machine learning to provide guidance on selecting 
-suitable crops for cultivation based on accurate crop prediction. In this context, the seed data of the crops is gathered, encompassing crucial 
+suitable crops for cultivation based on accurate crop predictions. In this context, the seed data of the crops is gathered, encompassing crucial 
 parameters such as temperature, humidity, and moisture content. This data plays a vital role in facilitating optimal crop growth and ensuring
 successful cultivation. The primary objective of this project is to assist farmers in predicting the yield of their crops prior to cultivation, 
 empowering them to make informed decisions. To address this challenge, a prototype of an interactive prediction system is being developed, aiming 
@@ -43,7 +43,7 @@ Using Different Machine Learning Algorithm for recommendation of Crops on the pr
 
 ![image](https://github.com/Iamkrmayank/Crop-Recommendation-System/assets/103871423/60237301-ea81-4463-b745-022ba17b1b85)
 
-KNN algorithm show the highest accuracy among other machine learning algorithm.
+KNN algorithm shows the highest accuracy among other machine learning algorithm.
 
 ![image](https://github.com/Iamkrmayank/Crop-Recommendation-System/assets/103871423/1cb629a9-3055-43a2-8469-9d553aa256ff)
 
